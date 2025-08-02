@@ -63,11 +63,12 @@ The dataset contains physical measurements for three penguin species observed on
 Install dependencies:
 ```bash
 pip install pandas
+```
 
-📜 License
+## 📜 License
 Open-source and free to use for learning and practice.
 
-🙌 Credits
+## 🙌 Credits
 Dataset: Palmer Penguins by Allison Horst
 
 Analysis: By Prakash Chaudhary
